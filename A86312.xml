@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the collegiate church at Manchester on Tuesday the 23. of April 1661. Being the coronation-day of his Royal Majestie Charles II. / By Richard Heyrick warden of the said colledge.</title>
+            <author>Heyrick, Richard, 1600-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86312</idno>
+            <idno type="STC">Wing H1750</idno>
+            <idno type="STC">Thomason E1088_9</idno>
+            <idno type="STC">ESTC R208569</idno>
+            <idno type="EEBO-CITATION">99867511</idno>
+            <idno type="PROQUEST">99867511</idno>
+            <idno type="VID">119825</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86312)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119825)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 162:E1088[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the collegiate church at Manchester on Tuesday the 23. of April 1661. Being the coronation-day of his Royal Majestie Charles II. / By Richard Heyrick warden of the said colledge.</title>
+                  <author>Heyrick, Richard, 1600-1667.</author>
+               </titleStmt>
+               <extent>[6], 32, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Shelmerdine Bookseller in Manchester,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Coronation --  Sermons --  Early works to 1800.</term>
+               <term>Bible. --  O.T. --  Kings, 2nd, XI, 12 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119825:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the COLLEGIATE CHURCH AT MANCHESTER On <hi>Tueſday</hi> the 23. of <hi>April</hi> 1661.</p>
+            <p>Being the CORONATION-DAY OF HIS Royal Majeſtie CHARLES II.</p>
+            <p>By <hi>RICHARD HEYRICK</hi> Warden of the ſaid Colledge.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for RALPH SHELMERDINE Bookſeller in <hi>Mancheſter.</hi> 1661.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119825:2"/>
+            <pb facs="tcp:119825:2"/>
+            <head>To the Reverend <hi>RICHARD HEYRICK</hi> Warden of Chriſts Colledge in <hi>Manchester.</hi>
+            </head>
+            <opener>
+               <salute>REVEREND SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>F thoſe Truths you have fre<g ref="char:EOLhyphen"/>quently delivered to us, this one, which you preached to our eares upon that happy and joy<g ref="char:EOLhyphen"/>ous day of his MAJESTIES Coronation, which is not of the ſmalleſt concernment, a Truth, which with the KING hath been an Exile, and baniſht both the Pulpit and the Preſſe in this Land for many yeares to<g ref="char:EOLhyphen"/>gether; but ſince both are returned together home; the one to the Throne, the other to the Pulpit; the one Crowned, the other preached,
+<pb facs="tcp:119825:3"/> both on a day; we judged it worthy the Preſs, whereby it might better manifeſt it ſelf to the world, that as at the Preſence and Sight of his Maieſties Sacred Perſon, all his ene<g ref="char:EOLhyphen"/>mies flie and fall before him, ſo at the ap<g ref="char:EOLhyphen"/>proach of this light, the groſse miſts of er<g ref="char:EOLhyphen"/>rors and contrary tenents, which have poſ<g ref="char:EOLhyphen"/>ſeſſed this Iſland of late yeares, might be diſ<g ref="char:EOLhyphen"/>pelled and utterly confounded. Neceſſary alſo we judged it, in reſpect of us ſonnes of the Church of <hi>England,</hi> to vindicate our ſelves, that though darkneſs might cover the ſurface of our Church, and ſeize upon ſome perſons, yet we ſtill kept this light within us unex<g ref="char:EOLhyphen"/>tinct, the doctrine of our Church we ſtill re<g ref="char:EOLhyphen"/>tain, and we who are ſouldiers will fight for his Majeſtie, in defence thereof to the laſt drop of our blood, nor was it fit the Herauld and Proclaimer of this doctrine ſhould be concealed and unknown, therefore paſseth it under your name, Pardon us wherein we have acted without full directions from you, it was
+<pb facs="tcp:119825:3"/> our love and zeal to the Truth, and to you the Preacher of it, that cauſed this forward<g ref="char:EOLhyphen"/>neſſe in us. <hi>Sir,</hi> the Town ingeneral, we more particularly who were further Actors in the ſolemnization of the day, are obliged to you for your great paines: And to teſtifie our gratitude for ſo great a favour, thought good to ſend them both together abroad into the World, your paines, with our unfeined thanks affixed thereto, who in the name of our ſelves, and the reſt of our ſouldiers under our Command, do ſubſcribe ourſelves</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>
+                  <hi>Your affectionate Neigh<g ref="char:EOLhyphen"/>bours and well-Wiſhers</hi>
+                  <list>
+                     <item>
+                        <hi>John Byrom,</hi> Major of the Trained Band.</item>
+                     <item>
+                        <hi>John Cawſey</hi> Lieut.</item>
+                     <item>
+                        <hi>Hugh Johnſon</hi> Enſign.</item>
+                     <item>
+                        <hi>Nicholas Moſley</hi> Captain of the Auxiliaries.</item>
+                     <item>
+                        <hi>William Heawood</hi> Lieut.</item>
+                     <item>
+                        <hi>William Byrom</hi> Enſigne.</item>
+                  </list>
+               </signed>
+               <dateline>Mancheſter <date>May 11. 1661.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:119825:4"/>
+            <pb n="1" facs="tcp:119825:4"/>
+            <epigraph>
+               <q>
+                  <bibl>2 KINGS 11.12.</bibl>
+                  <p>And he brought forth the Kings Son, and put the Crowne upon him, and gave him the teſtimony, and they made him KING, and anointed him, and they clapt their hands, and ſaid, God ſave the KING.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">H</seg>E that reads the Text, and knowes the occaſion of this great and ſolemn aſſembly; and he is a ſtranger in our <hi>Iſrael,</hi> that knowes it not, will preſently acknowledge the ſuitableneſs and fitneſs of it. The Text ſpeaks of the Coronation of a King, of a King the Son of a King; of a Kings Son, whoſe Father was treacherouſly and trai<g ref="char:EOLhyphen"/>terouſly murdered; of a King, who by force and violence was kept from the ex<g ref="char:EOLhyphen"/>erciſe
+<pb n="2" facs="tcp:119825:5"/> of his Kingly Office, his Royaltie and Dignitie; of a King, who for ſever<g ref="char:EOLhyphen"/>all years lay hid in darkneſs and obſcuri<g ref="char:EOLhyphen"/>tie, yet afterward beyond all expectation, probabilitie, by divine Providence, yea, almoſt poſſibilitie, reſtored to his Crown and Dignitie without the ſheding of blood, but of the Uſurper, the grand Con<g ref="char:EOLhyphen"/>ſpirator and Traytor.</p>
+            <p>The Hiſtory is briefly thus; <hi>Ahaziah</hi> the Kings Father, King of <hi>Judah,</hi> was by the hand of <hi>Jehu</hi> a furious Zealot, yet a great Politician, a notorious cloſe Hypo<g ref="char:EOLhyphen"/>crite, yet a gallant Commander ſhott to death. He being dead, <hi>Athaliah</hi> his mother like a Beare rob'd of her whelps, like a ſhee Tyger full of rage and mad<g ref="char:EOLhyphen"/>neſs, a furie and friend of hell deſtroyed all the Seed Royal. <hi>Jehoſaba</hi> ſiſter to <hi>Athaliah</hi> ſtole <hi>Joaſh</hi> the Son of <hi>Ahaziah</hi> from amongſt the Kings Sons that were ſlaine, ſhe hid him in the houſe of the
+<pb n="3" facs="tcp:119825:5"/> Lord ſix years. <hi>Jehoiada</hi> in the ſeventh year brings him forth to the people, <hi>puts the Crown upon him, gave him the teſtimony, they made him King, and anointed him, they clapt their hands, and ſaid, God ſave the KING.</hi>
+            </p>
+            <p>There is no difficultie in the words, he that runs may read, and he that reads will underſtand, there is no diverſity nor va<g ref="char:EOLhyphen"/>rietie in them. In the Text there are three parties, and the parts they performed in this reſtauration. <hi>Jehoiada</hi> the high Prieſt; <hi>Joaſh</hi> the King; and the People. I name them not according to their excellency and worth, but as they are preſented in the Text. 1. <hi>Jehoiada</hi> he ſhews him<g ref="char:EOLhyphen"/>ſelf upon this great and glorious Theatre, and he acts four things, 1. <hi>He brings forth the Kings Son.</hi> 2. <hi>He puts the Crown upon him.</hi> 3. <hi>He gives him the testimony.</hi> 4. <hi>He anointed him.</hi> The ſecond Per<g ref="char:EOLhyphen"/>ſon is <hi>Joaſh</hi> the King, and the parts that
+<pb n="4" facs="tcp:119825:6"/> he performes, anſwerable to the parts of <hi>Jehoiada,</hi> are likewiſe four. 1. He publick<g ref="char:EOLhyphen"/>ly ſhews himſelf to the people in his Roy<g ref="char:EOLhyphen"/>altie and Majeſtie. 2. He weares the Crown on his Head. 3. He takes the teſtimony in his Hand. 4. He hath the ſacred Oyle on his breaſt. The third partie that appears, the People; the parts that they performe are three. 1. <hi>They made him King.</hi> 2. <hi>They clapt their hands.</hi> 3. <hi>They ſaid, God ſave the KING:</hi> theſe are the parts and parcells of the text. Of theſe in their order, briefly and plain<g ref="char:EOLhyphen"/>ly: and firſt of the Firſt;</p>
+            <p>Jehoiada <hi>brought forth the Kings Son.</hi>
+            </p>
+            <p>In the book of <hi>Judges,</hi> it is four ſeveral times recorded <hi>there was no King in Iſrael,</hi> and it is very obſervable, that every time it is recorded, is occaſioned by ſome notorious villany, ſome horrid impi<g ref="char:EOLhyphen"/>etie, that was then committed. The firſt time we read theſe words, <hi>that there
+<pb n="5" facs="tcp:119825:6"/> was no King in Iſrael,</hi>
+               <note place="margin">Iudg. 17.16.</note> is—<hi>Micah</hi> had a houſe of gods, and made an Ephod and Teraphim, and conſecrated one of his Sons to be his Prieſt, Idols were erected, Idolatry was committed, an abomina<g ref="char:EOLhyphen"/>tion that Gods ſoule hateth. The ſe<g ref="char:EOLhyphen"/>cond time we read the words is—and then we read of robing and ſpoyling,<note place="margin">Iudg. 18.1.</note> plundring and rifling of houſes, murder<g ref="char:EOLhyphen"/>ing and maſſacring man, woman and child, and burning the City. The tribe of <hi>Dan</hi> every one with their ſword girt about them, march't to <hi>Laiſh</hi> unto a peo<g ref="char:EOLhyphen"/>ple that were quiet and ſecure, with a rage reaching up to heaven they deſtroy<g ref="char:EOLhyphen"/>ed all before them; a wickedneſs not to be paralleld. The third time we read the words in—the men of <hi>Gibeon</hi> offered force and violence to a <hi>Levite</hi> a wafareing man; they raviſhed his wife;<note place="margin">Iudg. 19.1.</note> they forced her to death: a greater wick<g ref="char:EOLhyphen"/>edneſs they attempted, a wickedneſs not
+<pb n="6" facs="tcp:119825:7"/> once to be named.<note place="margin">Iudg. 21.25.</note> The fourth time we read the words <hi>Judg.</hi> 21.25. And there we read of an unnaturall war, a civil uncivil war, a bloody and cruel war amongſt the Tribes themſelves, thouſands were ſlain, and almoſt a whole Tribe deſtroyed in <hi>Iſrael:</hi> the Book of <hi>Judges</hi> cloſeth it with theſe words, <hi>In thoſe daies there was no King in Iſrael;</hi> intimating and implying, that all the impieties, the wickedneſſes, the villanies that were then committed vvas upon this account, becauſe <hi>there was no King in Iſrael</hi> Alas what a woful Com<g ref="char:EOLhyphen"/>monvvealth there vvas <hi>when there was no King in Iſrael,</hi> then Idols vvere erected, Idolatry committed, Errours, Hereſies, Blaſphemies, falſe Religion, falſe VVor<g ref="char:EOLhyphen"/>ſhip connived at, tollerated: robbing, rifeling and plundering of houſes, rapes and murthers, bloody and cruel vvars, all vvas out of courſe, in State, in Church. <hi>Micah</hi> vvas a private man; <hi>Gibeon</hi> a Ci<g ref="char:EOLhyphen"/>ty.
+<pb n="7" facs="tcp:119825:7"/> 
+               <hi>Dan</hi> a Tribe. Tribes, Cities, Fami<g ref="char:EOLhyphen"/>lies, all in diſorder and confuſion: Nor was this in ſecret corners, but all the Land of <hi>Iſrael</hi> over. <hi>Micah</hi> dwelt at Mount <hi>Ephraim,</hi> in the midſt of <hi>Canaan; Gibeah</hi> was at one end, <hi>Dan</hi> at the other, ſo, in the midſt and both ends, all were wrap<g ref="char:EOLhyphen"/>ed up in darkneſs and blackneſs. You ſee what miſery comes by want of a King, what a maſſe of miſchief, diſorder upon diſorder; the holy Ghoſt doth not charge them with a flat Anarchy, that there was no Eſtate, no kinde of Government a<g ref="char:EOLhyphen"/>mong them; there were both Prieſts and Judges; there was a millitary Govern<g ref="char:EOLhyphen"/>ment, but there wanted a King; and God hath aſſigned this for the only cauſe, and we will not be wiſer then God, to ſearch for other reaſons. I could eaſily paralel all that I have ſaid in our Engliſh-<hi>Iſrael;</hi> but the King and Parliament hath made it forbiden fruit, and have paſſed an <hi>Act
+<pb n="8" facs="tcp:119825:8"/> of free and generall pardon, Indempnity and Oblivion,</hi> may God, and all the people of the Land ſeale to it. You ſee what the want of a King is, and by that you will the better judg of the bleſſedneſs of hap<g ref="char:EOLhyphen"/>pineſs of that people, that have a King.</p>
+            <p>Kingly Government is the beſt Go<g ref="char:EOLhyphen"/>vernment, for order, peace, ſtrength; ſo ſaith the Philoſopher, and he proves them all one by one; the beſt without contro<g ref="char:EOLhyphen"/>verſie, for had there been a better, God would not at laſt have reſolved on this for his own people. This is the moſt per<g ref="char:EOLhyphen"/>fect, moſt like the Government of Hea<g ref="char:EOLhyphen"/>ven, God changed the Government, from <hi>Joſhua</hi> the Captain, to the Judges; from the Judges to <hi>Eli</hi> and <hi>Samuel,</hi> Prieſts; but when he ſet a King over his people, he changed that Government no more. <hi>Jehotada</hi> did a great and glorious vvork, <hi>when he brought forth the King,</hi> a vvork pleaſing to God, and acceptable to the
+<pb n="9" facs="tcp:119825:8"/> people, this was the firſt work <hi>Jehoiada</hi> did; <hi>He brought forth the King.</hi> 2. <hi>He put the Crown upon him,</hi> He, <hi>Jehoiada,</hi> not the people.<note place="margin">Chr 23.11</note> Conſult—The Crowne doth not make the King, it ſhews him to be King; it addes nothing to the truth and being, though much to the honour and glory: the putting the Crown upon him is an external right and ceremonie, nothing intrinſecal, eſſential to the con<g ref="char:EOLhyphen"/>ſtitution of a King. The Crown is an ornament of renown and glory, proper and peculiar to the wearing of Kings a<g ref="char:EOLhyphen"/>lone. The Crown crowns the head, the head the higheſt member of the body naturall; the Crown on the head of the King ſpeaks the King the higheſt mem<g ref="char:EOLhyphen"/>ber of the body politick; honour, glory, dignity is originally from the Crown; where there is no Crown, there honours are not confer'd, Dukes, Marqueſſes, Earles, Viſcounts, Barons, Knights, they
+<pb n="10" facs="tcp:119825:9"/> have their dignity derived from the Crown; ſtreame greater and leſſe flow<g ref="char:EOLhyphen"/>ing from this Fountaine, rivers rivolets coming from this Sea, and returning to this Sea again.</p>
+            <p>
+               <hi>Jehoiada he puts the Crown upon him,</hi> but it is God, that reacheth the Crown to <hi>Jehoiada,</hi> to put it upon the head of the King.<note place="margin">Pſ. 21.3.</note> 
+               <hi>Thou ſettest a Crown of pure gold on his head,</hi> as <hi>David</hi> acknowledgeth on the triumphant day of victory: yea, not King <hi>David</hi> only, but King Jeſus, the King of Saints, the King of Nations, the king of kings hath ſaid it,<note place="margin">Pro. 8.15.</note> 
+               <hi>by me Kings reigne:</hi> we have Gods word for it, his deed, his beſt deed, his guift, <hi>I have given you a King;</hi> kings are placed in their thrones by God, <hi>vested with their Robes</hi> by God, <hi>girt with their Swords</hi> by God, <hi>anointed</hi> by God, <hi>crowned</hi> by God, ſo ſaith the Scripture, had I time to quote the texts. God hath imparted his Name to kings, <hi>I have ſaid
+<pb n="11" facs="tcp:119825:9"/> you are Gods, Sons of the moſt high; Kings</hi> have their deſcent from God; king of kings is upon his thigh, and <hi>Melchize<g ref="char:EOLhyphen"/>deck</hi> his firſt king and his tipe, is brought in without father and mother, to ſhew that <hi>Kings</hi> are the generation of God. This made the Emperours to ſtamp their coyne with an hand coming out of the Cloudes, houlding a Crown, and putting it on their heads, and accordingly to ſtile themſelves crowned of God.</p>
+            <p n="3">3. <hi>He gave him the testimony,</hi> a Book wherein the Law of God was regiſtred, the Book of <hi>Deutronomy,</hi> ſaies the Greek; the five Books of <hi>Moſes,</hi> ſaies the <hi>Jewes,</hi>
+               <note place="margin">Deut. 17.18.19.</note> 
+               <hi>And it ſhall be when he ſitteth upon the Throne of his Kingdome, that he ſhall write him a copy of this Law in a Book, out of that which is before the Priests the Levites; and it ſhall be with him, and he ſhall read therein all the dayes of his life, that he may learn to feare the Lord his God, to keep all the words
+<pb n="10" facs="tcp:119825:10"/> of this Law, and theſe Statutes, to do them.</hi> The <hi>Hebrews</hi> record it thus, when the king ſitteth upon the Throne of his king<g ref="char:EOLhyphen"/>dome, he hath a Book of the Law, that his Father had, given unto him, and he was to write with his own hand a ſecond Book of the Law, and ever to carry this Book about with him; the original Book was kept in the Sanctuary, and out of that Book was the kings copy written, that it might be moſt exact and perfect. This teſtimony was given to him, that he might know what the Law required of him in reference to <hi>God,</hi> to <hi>himſelf,</hi> to <hi>his people;</hi> and what he might expect from <hi>God</hi> and the <hi>people.</hi> At this day <hi>Chriſtian Kings</hi> have the Bible put into their hands, which requires <hi>wiſedome, underſtanding, integrity, courage,</hi> the <hi>feare of God,</hi> love of the <hi>truth,</hi> hating of <hi>covetouſneſs,</hi> having no reſpect of perſons; the two laſt proper<g ref="char:EOLhyphen"/>ties Heathens themſelves required,
+<pb n="15" facs="tcp:119825:10"/> whence the <hi>Thebans</hi> painted Juſtice with<g ref="char:EOLhyphen"/>out hands, without eyes, to intimate they ſhould receive no guifts, nor be ſway'd with ſight of perſons.</p>
+            <p>
+               <hi>He gave him the testimony,</hi> that he might be the <hi>keeper,</hi> the <hi>revenger</hi> of both Tables. The king is a mixt perſon, he hath the Crown upon his head, and the teſtimony in his hand, which ſpeaks him in all <hi>cauſes,</hi> and over all <hi>perſons</hi> within his Dominions <hi>ſupreme Head</hi> and <hi>Go<g ref="char:EOLhyphen"/>vernour;</hi> they ſteal from the kings Crown the moſt precious jewel, that exempt <hi>per<g ref="char:EOLhyphen"/>ſons</hi> and <hi>cauſes</hi> from him; whilſt the king hath a Crown upon his head, and the teſtimony in his hand, God and the peo<g ref="char:EOLhyphen"/>ple will love and honour him: the Crown honours him in the ſight of the people, and the teſtimony in the ſight of God, and may the king have ever this honour and love, and let all the people ſay <hi>Amen.</hi>
+            </p>
+            <p n="4">4. <hi>He anointed him,</hi> all kings were not
+<pb n="14" facs="tcp:119825:11"/> anointed; ſuch kings as imediatly ſuc<g ref="char:EOLhyphen"/>ceeded their parents, as Heirs apparent, their titles being no way queſtioned, are upon the royal Throne without any ſuch anoynting: but ſuch as were immediatly choſen of God, as <hi>Saul, David, Jehu,</hi> were anoynted: ſo alſo when the younger Brother vvas prefer'd before the elder, as <hi>Solomon</hi> and they, who vvere made kings in troubleſome times, vvhen the Land vvas in great danger and fears, the former king being ſlain, as <hi>Jehoahaz,</hi> and vvho had their right interrupted by an Uſurp<g ref="char:EOLhyphen"/>er, as <hi>Joaſh</hi> in the text: kings vvere a<g ref="char:EOLhyphen"/>noynted to ſignify the collation of guifts and graces by the Spirit unto that place and function to vvhich God called them, as it follovved, the anoynting of <hi>Saul.</hi> Again, kings vvere anoynted to ſet them apart, and to advance them above o<g ref="char:EOLhyphen"/>thers in authority and eminency, in which <hi>oyle</hi> hath ſome reſemblance,
+<pb n="15" facs="tcp:119825:11"/> which mixeth not with other liquors, but ſeperateth from them, and floateth above them. Once more, Kings were <hi>anointed</hi> to give evidence to the true title, and to make them depend on Gods protection and bleſſing. Laſtly, Kings were <hi>a<g ref="char:EOLhyphen"/>nointed,</hi> to ſecure them from the force and violence of men and devils.<note place="margin">Pſ. 105.15. 1 Sam. 26.9.</note> 
+               <hi>Touch not mine anointed. Who can ſtretch forth his hand against the Lords anointed, and be guiltleſſe?</hi> Thus <hi>Jehoiada, he brought forth the King, he put the Crown upon him, gave him the teſtimony, he anointed him;</hi> he did not one of theſe, but all; had he only brought him forth, and not crowned him, he had appeared as one of the people; had he crowned him, and not given him the te<g ref="char:EOLhyphen"/>ſtimony, he might have been a <hi>Pagan,</hi> a Heathen, had he brought him forth, crowned him, given him the teſtimony, he might have been King, but not fitted, nor qualified; but being brought forth,
+<pb n="14" facs="tcp:119825:12"/> crown'd, having the teſtimony, and a<g ref="char:EOLhyphen"/>nointed, theſe ſpeak him a King <hi>indeed,</hi> a <hi>glorious,</hi> a <hi>religious,</hi> a King <hi>choſen</hi> and given <hi>by God</hi> unto the people. He brought him forth, he, who? <hi>Jehoiada:</hi> and why <hi>Jehoiada?</hi> he was of the blood Royall, a kinſman to the King, he was the High Prieſt, the ſecond in the kingdom, a great States-man, a prudent Councellour, a Loyall Subject, a Religious and a Holy man, who ſo fit as <hi>Jehoiada?</hi> Princes may be Prieſts, and Prieſts may be Princes, <hi>Aaron</hi> and <hi>Moſes</hi> joyning together make a glorious Government. And thus much for the firſt partie, and the four parts performed by him.</p>
+            <p>The ſecond partie that appeareth upon this publick Theatre and makes it more glorious, is <hi>Joaſh</hi> the King. The parts that he performes: Firſt he ſhews him<g ref="char:EOLhyphen"/>ſelf to the people without bluſhing, He ſtands upright, with boldneſs and confi<g ref="char:EOLhyphen"/>dence,
+<pb n="17" facs="tcp:119825:12"/> 
+               <hi>innocence</hi> and <hi>juſtice</hi> ſupporting Him, not as an <hi>
+                  <g ref="char:V">Ʋ</g>ſurper,</hi> not as an <hi>Intruder,</hi> not as one <hi>elected</hi> by the people; but as the <hi>next,</hi> the <hi>right,</hi> the <hi>lawful Heire</hi> to the kingdom, tacitly claiming the Royalty, the Sover<g ref="char:EOLhyphen"/>aignty as due to him: He ſhews himſelfe to the people, as a Star of the firſt magni<g ref="char:EOLhyphen"/>tude, as a light ſhining out of darkneſs, as the Sun conquering and triumphing over miſts and cloudes, overcoming a dreadfull Eclipſe, that interrupted his influence.</p>
+            <p n="2">2. He weares the Crowne upon his Head, not becauſe ſet on by <hi>Jehoiada,</hi> but becauſe given Him of <hi>God,</hi> the Heir and Inheritour to it: His Head fitteth the Crown, and the Crown His Head: Had any other had the Crown upon his Head, it would have been a Crown of Thorns, a vexatious Crown, a Crown, a talent of Lead, that neither he, nor his heire ſhould have been able to beare, a Crown
+<pb n="18" facs="tcp:119825:13"/> not ſteddy, not fixt, but ever ſhakeing and tottering, looſe and burdenſome. It is a remarkable obſervation, that I have read in our <hi>Engliſh</hi> Hiſtory, though the Crowne hath been ſome times miſplaced, though ſometimes Uſurped, though often inter<g ref="char:EOLhyphen"/>rupted; yet at laſt it returned to the right heir, and now is ſeated upon the head of the heir of our <hi>Engliſh</hi> Kings before the Conqueſt. <hi>Joſephus</hi> tells us of <hi>Moſes,</hi> when an infant, <hi>Pharaoh</hi> King of <hi>Egypt</hi> to pleaſ his daughter, who had adopted <hi>Moſes</hi> to be her Son, takes the Crown from his own head and ſets it upon the head of <hi>Moſes;</hi> but he takes the Crown from his head, and throws it upon the ground. Once a Crown falling into a River, one dives for it, and having recovered it, ſets it upon his head and ſwims to the Land with it: the King takes his Crowne, re<g ref="char:EOLhyphen"/>wards the man but cuts off his head. That Citizen that ſaid he would make his Son
+<pb n="19" facs="tcp:119825:13"/> heire to the Crowne, meaning his houſe, that known by the Signe of the Crowne, loſt his life for it. <hi>Joaſh</hi> weares the Crown, <hi>Athaliah</hi> is cruſhed to pieces by it.</p>
+            <p n="3">3. The King takes the <hi>teſtimony</hi> into his hand. <hi>David</hi> accounted more of the <hi>teſti<g ref="char:EOLhyphen"/>mony</hi> then of the Crown: the Crown was on <hi>David</hi>'s head, the <hi>teſtimony</hi> was engra<g ref="char:EOLhyphen"/>ven on his <hi>heart;</hi> he found an end of crowns, but the teſtimony was exceeding broad. <hi>Oh! how do I love thy Law. It was ſweeter to him then the honey and the honey combe,</hi> dearer to him than <hi>thouſands of gold and ſil<g ref="char:EOLhyphen"/>ver:</hi> he made it his <hi>counſellour,</hi> his <hi>friend,</hi> his <hi>companion.</hi> Great <hi>Alexander</hi> in all his wars and travels he carried <hi>Homer</hi>'s works about with him, and lodged them in the <hi>Perſian</hi> Cabinet. <hi>Queen Elizabeth</hi> highly prized <hi>Seneca de Clementia. Ahaſuerus</hi> com<g ref="char:EOLhyphen"/>mauded the Books of the Records of the <hi>Chronicles</hi> to be read to him: It was not <hi>Homers</hi>'s works, no Poetical fable, no Ro<g ref="char:EOLhyphen"/>mance,
+<pb n="20" facs="tcp:119825:14"/> It was not <hi>Seneca de Clementia,</hi> no moral philoſophy; It was not the Hiſto<g ref="char:EOLhyphen"/>ry, the Annals, the Chronicles that King <hi>Joaſh</hi> took into his hand; it was the <hi>teſti<g ref="char:EOLhyphen"/>mony,</hi> the Book of <hi>God,</hi> the <hi>royall Law;</hi> ſo the Apoſtle <hi>James</hi> calls it, the <hi>royal Law,</hi> becauſe <hi>royally</hi> given with Majeſty and power, becauſe a ſtandard to all Laws, be<g ref="char:EOLhyphen"/>cauſe it reacheth to all times, Nations, tongues and languages, becauſe Kings are to keep it and protect it. It was not the <hi>Scepter</hi> that he took into his hand, the em<g ref="char:EOLhyphen"/>bleme, which ſhews his <hi>power</hi> to give laws; but the <hi>teſtimony,</hi> according to which he was to frame he Laws. It is a fundamen<g ref="char:EOLhyphen"/>tal Law of this Nation, that if any Law be enacted contrary to the Law of God, there needs no repeale of it, but is null of it ſelf, and people are not bound to the obedience of it, <hi>Joaſh</hi> took the teſtimony in his hand, and this was the third part he performed.</p>
+            <p n="4">4. He had the <hi>ſacred,</hi> the <hi>anointing oyle</hi>
+               <pb n="21" facs="tcp:119825:14"/> upon him. It was not the Crown on his head, nor the <hi>teſtimony</hi> in his hand; but this <hi>anointing</hi> that qualified and fitted him to be a King. King Jeſus he was anointed, no King anointed as he: he had not the Spi<g ref="char:EOLhyphen"/>rit in <hi>meaſure,</hi> the fulneſs of the Godhead dwelt bodily in him,<note place="margin">Zach. 4.12.</note> and of his fullneſſe Kings receive <hi>grace for grace.</hi> It is ſaid of that oyle wherewith the Kings of <hi>France</hi> are anointed, that it was firſt given from Heaven. In the Scripture we read of <hi>two Olive branches, which through the two golden pipes empty the golden Oyle out of themſelves.</hi> Some Kings were anointed with oyle out of the Violl, ſome out of the Cruſe. The Lord Jeſus had this oyle naturally flowing from the Olive tree Thoſe Kings, whoſe ſucceſſion was long to continue, were a<g ref="char:EOLhyphen"/>nointed with oyle out of the Viol: thoſe Kings, whoſe heirs preſently failed, were anointed out of the Cruſe. Kings beare this ſacred oyle upon their breaſt, to ſhew
+<pb n="22" facs="tcp:119825:15"/> that they are to have grace in their hearts: While Kings have this <hi>oyle</hi> on their <hi>breſts;</hi> the <hi>teſtimony</hi> in their <hi>hand,</hi> the <hi>Crown</hi> on their <hi>head,</hi> and live amongſt their people, that King cannot but be <hi>glorious,</hi> that peo<g ref="char:EOLhyphen"/>ple a <hi>bleſſed,</hi> a <hi>happy</hi> people. Once it was ſaid to one of our Kings by a voice from Heaven, in deep thoughts, who ſhould ſuc<g ref="char:EOLhyphen"/>ceed him, the kingdome is the Lords and he will take care of it. <hi>Joaſh</hi> was <hi>anointed,</hi> and this is the ſecond party, and the fourth and laſt part he performed.</p>
+            <p>The third partie was the <hi>people,</hi> and of them it is ſaid, <hi>they made him King, they clapt their hands, they ſaid, God ſave the King,</hi> let the King <hi>live.</hi> Firſt <hi>they made him King;</hi> he was King before, but they <hi>ac<g ref="char:EOLhyphen"/>knowledg him</hi> then to be King: he had the right before, but now they give him the poſſeſſion. In kingdoms where Kings are by ſucceſſion, there is no Interregnum, but no ſooner is the King dead, but his heir
+<pb n="23" facs="tcp:119825:15"/> is immediatly King, the King never dyes. The Proclamations that are proclaimed throughout the Kingdome, and the Co<g ref="char:EOLhyphen"/>ronation of him, do but publiſh him King, and make it known to the people. It is not the repreſentative of the people, not in Senates, nor Parliaments: it is not in the collective body to make Kings: <hi>Kings</hi> are <hi>Kings,</hi> though the <hi>whole</hi> people op<g ref="char:EOLhyphen"/>poſe it; but it adds much to the honour, to the glory, to the renowne, to the peace, to the ſtrength, to the comfort of the <hi>King,</hi> when <hi>all the people</hi> owns him, acknowledg<g ref="char:EOLhyphen"/>eth him, ſubmits, ſwears obedience to him. This was the firſt part, <hi>they made him King.</hi>
+            </p>
+            <p n="2">2. <hi>They clapt their hands,</hi> this was a viſi<g ref="char:EOLhyphen"/>ble expreſſion of their great joy. See <hi>Pſ.</hi> 47.1. <hi>Oh clap your hands all ye people, ſhout unto God with the voice of a triumph.</hi> So <hi>Ezek.</hi> 25.6 It is ſaid of the Jews at this day, that as often as they read the Book of <hi>Heſter,</hi> and mention is made of <hi>Haman,</hi> his name is
+<pb n="24" facs="tcp:119825:16"/> ſo much in deteſtation and execration a<g ref="char:EOLhyphen"/>mongſt them, that they ſuddainly ſtart up as it were in a rage and fury, they <hi>bend their brow<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> they <hi>ſpit on the ground,</hi> they <hi>hiſſe,</hi> they <hi>ſtampe</hi> with their <hi>feet.</hi> Every Nation hath their ſeveral Rites and Ceremonies, their external and outward expreſſion of joy. Yea, they did not only <hi>clap their hands,</hi> when the Crown was put upon him, they <hi>ſounded the Trumpets,</hi> they had <hi>ſinging men and inſtruments of Muſick.</hi> Conſult 2 <hi>Chro.</hi> 23.13. Nor was this the act of a partie, of a faction, but of all the people of the Land. But the <hi>Captains of hundreds,</hi> the <hi>Nobles</hi> and the <hi>Governours</hi> of the people, and <hi>all</hi> the people of the Land. In <hi>Ezek.</hi> 8.14. We read of <hi>women weeping for Tam<g ref="char:EOLhyphen"/>muz.</hi> Interpreters ſay, by <hi>Tammuz</hi> is underſtood the <hi>Sun,</hi> who for ſome months departed from them; but when the <hi>Sun</hi> re<g ref="char:EOLhyphen"/>turned again, and they had his light, his heart, his influence, they rejoyced with
+<pb n="25" facs="tcp:119825:16"/> great joy. When the wiſe men recover<g ref="char:EOLhyphen"/>ed the ſight of the Star, that they had loſt before, they rejoyced with exceeding great joy. Some ſay it was no new Star then created, but a Star not appearing before, but then ſhewing it ſelf. <hi>Joaſh the King</hi> was as the <hi>Sun</hi> departed, as the <hi>bright</hi> morning <hi>Star</hi> eclipſed and darkned, when he appear<g ref="char:EOLhyphen"/>ed, the <hi>Sun</hi> returned, the <hi>Star</hi> ſhewed it ſelf. The people <hi>rejoyced, they clapt their hands,</hi> this was the ſecond thing.</p>
+            <p n="3">3. <hi>They ſaid, God ſave the King</hi> In other places we read they ſhouted, they ſhouted with a great ſhout, they ſhouted with a loud ſhout, they ſhouted that the Earth rang again. God ſometimes calls upon his people to ſhout. The Jews upon ſe<g ref="char:EOLhyphen"/>veral occaſions of joy, they expreſſed their joy by ſhouting; but when ever they ſhouted, they gave the greateſt ſhout at the Coronation of a King: hence it is ſaid, by way of eminency, <hi>Numb.</hi> 23.21. <hi>The ſhout
+<pb n="26" facs="tcp:119825:17"/> of a King is amongſt them;</hi> and what did they ſhout? theſe words, <hi>God ſave the King,</hi> or as it is in the Hebrew, let <hi>the King live.</hi> As they praiſed God for their King before, ſo now they pray to God for their King: according to the Canon of Scrip<g ref="char:EOLhyphen"/>ture, 1 <hi>Tim.</hi> 2.1, 2. <hi>I exhort therefore, that firſt of all, ſupplications, prayers, interceſſions, and giving of thanks be made for all men: for Kings, and for all that are in authority, that we may lead a godly and peaceable life in all godlineſſe and honeſty.</hi> They prayed, let the King <hi>live,</hi> maugre all the oppoſition and contradiction of men and divels Let the King <hi>live,</hi> that the ſons of <hi>violence</hi> may not prevaile againſt <hi>Him,</hi> that conſpiracies, confederacies, treacheries, treaſons may never <hi>proſper.</hi> Let the King <hi>live</hi> in Gods love and his peoples, that he may live glo<g ref="char:EOLhyphen"/>riouſly and proſperouſly: that he may live long here, and eternally hereafter. In their greateſt joy and triumph they pray<g ref="char:EOLhyphen"/>ed,
+<pb n="27" facs="tcp:119825:17"/> 
+               <hi>God ſave the king.</hi> They do not drink healths to the life of the king, or to the confuſion of his enemies. <hi>Heſt.</hi> 1.8. Great <hi>Ahaſuerus</hi> the Heathen king in his greateſt feſtivalls expreſly forbad it; nor hath the Church of God any ſuch cuſtome; yea, they did not only pray, let the king <hi>live,</hi> but they took out of the way what might ſhorten the life of the king, that might make God an adverſarie to Him; they rooted out Idolatrie, they brake down the Altars and Image of <hi>Baal</hi> in pieces, they ſlew <hi>Mattan</hi> the chief Prieſt of <hi>Baal;</hi> yea more, <hi>Jehoiada</hi> made a Covenant before the Lord, and the king, and the people, that they ſhould be the Lords people, that the king ſhould give <hi>protection</hi> to them, and they <hi>obedience</hi> to Him: I have done with the parts and parcels of the Text <hi>I</hi> have conſid<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red them ſeverally by themſelves, they all joyne their forces together, and commend unto us this reaſonabe Obſer<g ref="char:EOLhyphen"/>vation.
+<q>
+                  <pb n="28" facs="tcp:119825:18"/>The Reſtauration and Coronation of a king is matter of great joy and rejoycing to a Loyal and Religi<g ref="char:EOLhyphen"/>ous people.</q> or thus, <q>The kings Reſtauration and Coronati<g ref="char:EOLhyphen"/>on is the Peoples Triumph and Glory.</q>
+            </p>
+            <p>I ſhall not ſpend time in the confirmati<g ref="char:EOLhyphen"/>on and illuſtration of this Doctrine, I ſhal make ſome application, and that in one Uſe of <hi>Exhortation:</hi> not to <hi>Joaſh</hi> the king; not to <hi>Jehoiada</hi> the Prieſt; but to the <hi>People:</hi> you have heard what the People did, when the king was reſtored and crowned, <hi>they clapt their hands, &amp; ſaid, God ſave the king:</hi> beſides what is ſaid in the Text, I find two things more the people did, <hi>they praiſed God for the kings Reſtauration and Coronation; and they praiſed the king.</hi> 1. They praiſed God. Be exhorted on this day of the Kings Co<g ref="char:EOLhyphen"/>ronation to <hi>praiſe</hi> God, to give God the <hi>honour</hi> and <hi>glory</hi> of it, 1. <hi>Bleſſe God</hi> that
+<pb n="29" facs="tcp:119825:18"/> we have a <hi>king,</hi> the ſhout of a <hi>king</hi> is a joy<g ref="char:EOLhyphen"/>full ſhout; better any than an <hi>Anarchy,</hi> bet<g ref="char:EOLhyphen"/>ter <hi>any</hi> one a king, than <hi>every</hi> one a king, <hi>I</hi> remember the cry of the Beaſts in the Fable, when they were in conſultation to ſubmit themſelves to the Lyon, as to their king, ſome alledged, <hi>he would do what he pleaſed;</hi> they all cried, better <hi>one Lyon</hi> do ſo, than <hi>all the Beares,</hi> and <hi>Wolves,</hi> and <hi>wilde Beaſts</hi> of the Forreſt.</p>
+            <p n="2">2. Bleſſe God that our King is not by <hi>Election,</hi> but by <hi>Succeſſion,</hi> no <hi>Invader,</hi> no <hi>
+                  <g ref="char:V">Ʋ</g>ſurper,</hi> no <hi>Conquerour,</hi> no <hi>Alien</hi> or <hi>Strang<g ref="char:EOLhyphen"/>er;</hi> not one, whoſe ſpeech we underſtand not; but a king <hi>lineally deſcended</hi> from kings of the <hi>race Royal</hi> for many hundreds of years, who hath an <hi>undoubted right</hi> to be king, <hi>Ec.</hi> 10.17 <hi>Bleſſed art thou, O Land, when thy king is the Sonne of Nobles, the Sonne of kings.</hi>
+            </p>
+            <p n="3">3. Bleſſe God that our king is peacea<g ref="char:EOLhyphen"/>bly reſtored to us, that the people gene<g ref="char:EOLhyphen"/>rally
+<pb n="30" facs="tcp:119825:19"/> and univerſally receive him for King. There were great thoughts of heart, be<g ref="char:EOLhyphen"/>cauſe of the diviſion of king and ſubjects. It was given out concerning <hi>Queen Eliza<g ref="char:EOLhyphen"/>beth,</hi> when ſhee ſhould die, clouds of blood did hang in the ayre; but God brought in <hi>king James</hi> peaceably, and made him a peace maker. It was above our faith, a<g ref="char:EOLhyphen"/>bove our hopes, yet in duty we praied, that our king might peaceably be reſtored unto us. It is obſerved no leſſe then miraculous when God brought his people <hi>Iſrael</hi> out of <hi>Egypt, that no dogg opened his mouth.</hi> It was in the dark time of night, there was great noiſe and tumult, yet no dogg barked. When the king was reſtored unto us, it was as it was in Heaven for a time, great ſilence, all mens mouths were ſtopped, and the king peaceably and joyfully reſtored.</p>
+            <p n="4">4. Bleſſe God that we have not only a king, but a race and ſucceſſion of kings: God preſerved the <hi>Royal Family,</hi> as the
+<pb n="31" facs="tcp:119825:19"/> three <hi>children</hi> in the fiery fornace, ſo that no haire of their head was ſinged: you ſee what great cauſe we have to praiſe God: <hi>Not unto us O Lord, not unto us, but unto thy Name be the glory. Not by might, not by pow<g ref="char:EOLhyphen"/>er, but by my Spirit, ſaith the Lord of Hoſts.</hi>
+            </p>
+            <p n="5">5. They praiſed the king: give the king the praiſses due unto him; praiſe him for his <hi>invincible patience</hi> and <hi>forbearance:</hi> praiſe him for his Act of <hi>Indempnity</hi> and <hi>Pardon:</hi> praiſe him for reſtoring the <hi>rights,</hi> the <hi>liber<g ref="char:EOLhyphen"/>ties</hi> of the Church: praiſe him for eſtabliſh<g ref="char:EOLhyphen"/>ing <hi>truth</hi> and <hi>judgment:</hi> never had king greater <hi>provocation,</hi> greater <hi>temptation;</hi> yet he hath conquered <hi>himſelf,</hi> which is more than if with <hi>Alexander</hi> he had conquered the <hi>whole world:</hi> He is more then a con<g ref="char:EOLhyphen"/>querour, a triumpher, not over mens <hi>bo<g ref="char:EOLhyphen"/>dies,</hi> but over their <hi>hearts,</hi> their <hi>ſoules,</hi> their <hi>ſpirits.</hi> Shout and cry aloud, let Heaven and Earth Eccho it back again, <hi>God ſave the king:</hi> Let the king live: <hi>God ſave the
+<pb n="32" facs="tcp:119825:20"/> king:</hi> they are the laſt words of my Text, and they ſhall be the laſt of my Sermon, and let all the People ſhout it out with a loud ſhout, GOD SAVE THE KING.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119825:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
